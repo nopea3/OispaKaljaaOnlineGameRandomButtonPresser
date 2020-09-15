@@ -1,0 +1,2 @@
+i made this python code to test how many points can i get in this online game http://www.oispakaljaa.com/
+to run this code you need. randint, pywinauto, pyautogui and python 3
