@@ -1,2 +1,14 @@
 i made this python code to test how many points can i get in this online game http://www.oispakaljaa.com/
-to run this code you need. randint, pywinauto, pyautogui and python 3
+to run this code you need: randint, pywinauto, pyautogui and python 3
+to install python3 go to https://www.python.org/downloads/
+remember to press install python to path(when you download python3)
+then go to cmd ant type 
+pip install pywinauto
+pip install pyautogui
+and then you have everything you need to run this program
+
+TROUBLESHOOTTING
+
+if after typing pip install ... you get something like this
+update pip using ....
+type python -m pip install --upgrade pip
